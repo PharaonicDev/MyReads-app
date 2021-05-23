@@ -6,7 +6,7 @@ To get started:
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 ### Live
-You can see it in action **[here]()**.
+You can see it in action **[here](https://my-reads-app-two.vercel.app/)**.
 
 ## [Folder structure]
 ```bash
